@@ -1,5 +1,9 @@
 # neonbreak
 A smal game I am developing all by myself.
 
+It is a singleplayer top-down-shooter with an 80's style theme.
+
 The current version has one level and was done within a week.
-I will probably update the game in the future with more levels, mechanics and achievements. 
+I will probably update the game in the future with more levels, mechanics and achievements.
+
+Download the current playable build here: https://drive.google.com/open?id=1vKyQML5M6qCAHSQXSGnBt4cRuCBdHLsu
