@@ -8,6 +8,6 @@ I will probably update the game in the future with more levels, mechanics and ac
 
 Download the current playable build here: https://drive.google.com/open?id=1vKyQML5M6qCAHSQXSGnBt4cRuCBdHLsu
 
-![Alt text]GithubImages/mainmenu.png?raw=true "MainMenu")
+![Alt text](GithubImages/mainmenu.png?raw=true "MainMenu")
 ![Alt text](GithubImages/spawn.png?raw=true "spawnarea")
 ![Alt text](GithubImages/level1.png?raw=true "a part of level 1")
