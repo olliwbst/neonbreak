@@ -1,5 +1,5 @@
 # neonbreak
-A smal game I am developing all by myself.
+A small game I am developing all by myself.
 
 It is a singleplayer top-down-shooter with an 80's style theme.
 
