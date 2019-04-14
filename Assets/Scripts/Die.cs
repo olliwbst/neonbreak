@@ -7,12 +7,13 @@ using UnityEngine.UI;
 
 public class Die : MonoBehaviour
 {
-    private int hits = 0;
     private Text text;
 
     public int lives = 3;
     public GameObject hitui;
     public GameObject goui;
+
+    [HideInInspector] public int hits = 0;
 
     void Start()
     {
@@ -46,6 +47,16 @@ public class Die : MonoBehaviour
         }
         else
         {
+            if(gameObject.CompareTag("Enemy"))
+            {
+                GameManager.instance.Aenemykills += 1;
+            }
+            
+            if(gameObject.CompareTag("Enemy"))
+            {
+                GameManager.instance.Adoorkills += 1;
+            }
+            
             Destroy(gameObject);
         }
     }

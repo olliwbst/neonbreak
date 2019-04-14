@@ -87,6 +87,7 @@ public class EnemyBehaviour : MonoBehaviour
             ChasePlayer = true;
             agent.speed = 10;
             _LookAtPlayer.lockplayer = true;
+            GameManager.instance.Astealth = false;//invalidates the stealth achievement
         }
     }
 }

@@ -48,7 +48,7 @@
           <e p="MoveProjectile.cs" t="Include" />
           <e p="PauseOptions.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
-          <e p="SetTimeScore.cs" t="Include" />
+          <e p="SetScoreAch.cs" t="Include" />
           <e p="SpawnProjectile.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
           <e p="Win.cs" t="Include" />

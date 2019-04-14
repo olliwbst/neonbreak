@@ -14,6 +14,11 @@ public class GameManager : MonoBehaviour
     public float _musicLvl;
     public float _masterLvl;
     
+    //achievementtracker
+    public int Adoorkills = 0;
+    public int Aenemykills = 0;
+    public bool Astealth = true;
+    
     //Singleton enforcement
     void Awake()
     {
