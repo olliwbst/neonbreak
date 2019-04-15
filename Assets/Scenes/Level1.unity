@@ -6787,6 +6787,11 @@ PrefabInstance:
       propertyPath: hitui
       value: 
       objectReference: {fileID: 1115248122}
+    - target: {fileID: 8262212852634294589, guid: 30066837202044e4aadf19b5fb06b58e,
+        type: 3}
+      propertyPath: m_TagString
+      value: door
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30066837202044e4aadf19b5fb06b58e, type: 3}
 --- !u!1001 &3830647056078002002

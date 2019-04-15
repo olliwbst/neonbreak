@@ -52,7 +52,7 @@ public class Die : MonoBehaviour
                 GameManager.instance.Aenemykills += 1;
             }
             
-            if(gameObject.CompareTag("Enemy"))
+            if(gameObject.CompareTag("door"))
             {
                 GameManager.instance.Adoorkills += 1;
             }

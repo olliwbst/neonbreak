@@ -41,22 +41,22 @@ public class SetScoreAch : MonoBehaviour
         if (PlayerPrefs.GetInt("a1") == 1)
         {
             a1.text += " - done";
-            a0.color=Color.white;
+            a1.color=Color.white;
         }
         if (PlayerPrefs.GetInt("a2") == 1)
         {
             a2.text += " - done";
-            a0.color=Color.white;
+            a2.color=Color.white;
         }
         if (PlayerPrefs.GetInt("a3") == 1)
         {
             a3.text += " - done";
-            a0.color=Color.white;
+            a3.color=Color.white;
         }
         if (PlayerPrefs.GetInt("a4") == 1)
         {
             a4.text += " - done";
-            a0.color=Color.white;
+            a4.color=Color.white;
         }
     }
 }

@@ -47,7 +47,7 @@ public class Win : MonoBehaviour
             PlayerPrefs.SetInt("a2", 1);
         }
         
-        if (PlayerPrefs.GetInt("a3")!=1 &&(GameManager.instance.Adoorkills == 6))
+        if (PlayerPrefs.GetInt("a3")!=1 &&(GameManager.instance.Adoorkills == 12))
         {
             PlayerPrefs.SetInt("a3", 1);
         }

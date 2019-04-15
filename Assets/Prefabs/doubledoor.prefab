@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2094698378207705053}
   m_Layer: 0
   m_Name: right
-  m_TagString: level
+  m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107,6 +107,7 @@ MonoBehaviour:
   lives: 3
   hitui: {fileID: 0}
   goui: {fileID: 0}
+  hits: 0
 --- !u!1 &5310926150068722452
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,7 +202,7 @@ GameObject:
   - component: {fileID: 702095302291689110}
   m_Layer: 0
   m_Name: left
-  m_TagString: level
+  m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -293,3 +294,4 @@ MonoBehaviour:
   lives: 3
   hitui: {fileID: 0}
   goui: {fileID: 0}
+  hits: 0
